@@ -1,5 +1,9 @@
 # SlopTyper - TUI Hacker Typer
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Antonkak/SlopTyper/media/gifs/sloptyper_intro.gif" width="600" alt="SlopTyper Demo">
+</p>
+
 A terminal-based "hacker typer" that injects AI-generated code into your terminal when you type. Runs as a TUI (Terminal User Interface) application using crossterm.
 > [!NOTE]
 > ### Fake your productivity in blazingly fast Rust
